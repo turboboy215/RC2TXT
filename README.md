@@ -9,7 +9,7 @@ Examples:
 * RC2MID "Rolan's Curse (U) [!].gb" 2
 * RC2MID "Rolan's Curse II (U) [!].gb" 2
 * RC2MID "Ninja Taro (U) [!].gb" 2
-* 
+
 This tool was based on my own reverse-engineering of the sound engine, partially based on disassembly of Rolan's Curse's sound code.
 
 Supported games:
