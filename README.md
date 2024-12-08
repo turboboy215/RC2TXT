@@ -1,4 +1,4 @@
-# RC2TXT
+# RC2MID
 Rolan's Curse 1/2/Ninja Taro (GB) to MIDI converter
 
 This tool converts music (and sound effects) from a sound engine used in three Game Boy games from Sammy to MIDI format.
